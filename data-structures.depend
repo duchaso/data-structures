@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1625498439 source:/home/danyl/data-structures/main.cpp
+	<iostream>
+	"Hash.h"
+	"List.h"
+	"Queue.h"
+	"Stack.h"
+	"Tree.h"
+	"Vector.h"
+
+1625498136 source:/home/danyl/data-structures/src/example.cpp
+	"example.h"
+
+1625498136 /home/danyl/data-structures/include/example.h
+
+1625318990 /home/danyl/data-structures/include/Hash.h
+
+1625232881 /home/danyl/data-structures/include/List.h
+	<iostream>
+
+1625229203 /home/danyl/data-structures/include/Queue.h
+
+1625228432 /home/danyl/data-structures/include/Stack.h
+
+1625498426 /home/danyl/data-structures/include/Tree.h
+	<iostream>
+
+1625395356 /home/danyl/data-structures/include/Vector.h
+
